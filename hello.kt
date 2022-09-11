@@ -1,4 +1,5 @@
+var hello = "Hello world!"
+
 fun main() {
-    var hello = "Hello world!";
     println(hello)
 }
