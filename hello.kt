@@ -1,4 +1,4 @@
-var hello = "Hello world!"
+var hello = "Hello world"
 
 fun main() {
     println(hello)
